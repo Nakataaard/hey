@@ -1,9 +1,9 @@
 {
   "token": "MTAzOTE3NjkyNDI1NTIyNzkwNA.GuShId.aqYuwCuxJljUdQs-yBKiKYcmUPSrQRwL26ofmQ",
   "prefix": "n!",
-  "serverAddress": "mc.advancius.net",
-  "serverPort": "19132",
-  "serverName": "Asvexous Net",
+  "serverAddress": "host12.flydrexcloud.site",
+  "serverPort": "19135",
+  "serverName": "Random tes Sengfer",
   "updateInterval": "1min",
   "showPlayerSample": true,
   "debugMode": true,
